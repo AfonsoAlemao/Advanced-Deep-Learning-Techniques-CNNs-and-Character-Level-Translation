@@ -1,0 +1,115 @@
+python hw2-q3.py --use_attn
+Loading data...
+Training...
+Epoch: [1/50], Loss: 1.5195
+Validation Error Rate of the model: 0.6202
+Epoch: [2/50], Loss: 1.3235
+Validation Error Rate of the model: 0.5641
+Epoch: [3/50], Loss: 1.1773
+Validation Error Rate of the model: 0.5744
+Epoch: [4/50], Loss: 1.0914
+Validation Error Rate of the model: 0.5271
+Epoch: [5/50], Loss: 1.2526
+Validation Error Rate of the model: 0.5031
+Epoch: [6/50], Loss: 1.0680
+Validation Error Rate of the model: 0.4778
+Epoch: [7/50], Loss: 0.9096
+Validation Error Rate of the model: 0.4817
+Epoch: [8/50], Loss: 0.9837
+Validation Error Rate of the model: 0.4691
+Epoch: [9/50], Loss: 1.0480
+Validation Error Rate of the model: 0.4657
+Epoch: [10/50], Loss: 0.9258
+Validation Error Rate of the model: 0.4449
+Epoch: [11/50], Loss: 0.8514
+Validation Error Rate of the model: 0.4465
+Epoch: [12/50], Loss: 0.8201
+Validation Error Rate of the model: 0.4304
+Epoch: [13/50], Loss: 0.8541
+Validation Error Rate of the model: 0.4285
+Epoch: [14/50], Loss: 0.8805
+Validation Error Rate of the model: 0.4354
+Epoch: [15/50], Loss: 0.8805
+Validation Error Rate of the model: 0.4259
+Epoch: [16/50], Loss: 0.8669
+Validation Error Rate of the model: 0.4191
+Epoch: [17/50], Loss: 0.7421
+Validation Error Rate of the model: 0.4062
+Epoch: [18/50], Loss: 0.7467
+Validation Error Rate of the model: 0.3936
+Epoch: [19/50], Loss: 0.7283
+Validation Error Rate of the model: 0.3919
+Epoch: [20/50], Loss: 0.7058
+Validation Error Rate of the model: 0.3963
+Epoch: [21/50], Loss: 0.7395
+Validation Error Rate of the model: 0.3794
+Epoch: [22/50], Loss: 0.5513
+Validation Error Rate of the model: 0.3977
+Epoch: [23/50], Loss: 0.7993
+Validation Error Rate of the model: 0.3814
+Epoch: [24/50], Loss: 0.6333
+Validation Error Rate of the model: 0.3758
+Epoch: [25/50], Loss: 0.6603
+Validation Error Rate of the model: 0.3697
+Epoch: [26/50], Loss: 0.6006
+Validation Error Rate of the model: 0.3767
+Epoch: [27/50], Loss: 0.7504
+Validation Error Rate of the model: 0.3726
+Epoch: [28/50], Loss: 0.6919
+Validation Error Rate of the model: 0.3710
+Epoch: [29/50], Loss: 0.6136
+Validation Error Rate of the model: 0.3643
+Epoch: [30/50], Loss: 0.6177
+Validation Error Rate of the model: 0.3635
+Epoch: [31/50], Loss: 0.6132
+Validation Error Rate of the model: 0.3621
+Epoch: [32/50], Loss: 0.6696
+Validation Error Rate of the model: 0.3560
+Epoch: [33/50], Loss: 0.5148
+Validation Error Rate of the model: 0.3543
+Epoch: [34/50], Loss: 0.6547
+Validation Error Rate of the model: 0.3565
+Epoch: [35/50], Loss: 0.6876
+Validation Error Rate of the model: 0.3565
+Epoch: [36/50], Loss: 0.6415
+Validation Error Rate of the model: 0.3503
+Epoch: [37/50], Loss: 0.6262
+Validation Error Rate of the model: 0.3525
+Epoch: [38/50], Loss: 0.5158
+Validation Error Rate of the model: 0.3413
+Epoch: [39/50], Loss: 0.6447
+Validation Error Rate of the model: 0.3460
+Epoch: [40/50], Loss: 0.6063
+Validation Error Rate of the model: 0.3496
+Epoch: [41/50], Loss: 0.5699
+Validation Error Rate of the model: 0.3481
+Epoch: [42/50], Loss: 0.5990
+Validation Error Rate of the model: 0.3479
+Epoch: [43/50], Loss: 0.5624
+Validation Error Rate of the model: 0.3407
+Epoch: [44/50], Loss: 0.7941
+Validation Error Rate of the model: 0.3426
+Epoch: [45/50], Loss: 0.6465
+Validation Error Rate of the model: 0.3418
+Epoch: [46/50], Loss: 0.5655
+Validation Error Rate of the model: 0.3435
+Epoch: [47/50], Loss: 0.5606
+Validation Error Rate of the model: 0.3387
+Epoch: [48/50], Loss: 0.5381
+Validation Error Rate of the model: 0.3341
+Epoch: [49/50], Loss: 0.5377
+Validation Error Rate of the model: 0.3338
+Epoch: [50/50], Loss: 0.6313
+Validation Error Rate of the model: 0.3390
+Test Error Rate of the model: 0.3565
+true src: "venios ."
+true tgt: "come with us ."
+pred tgt: "come on ."
+true src: "lo prometiste ."
+true tgt: "you promised ."
+pred tgt: "you promised ."
+true src: "no tengo blanca ."
+true tgt: "i m broke ."
+pred tgt: "i have no back ."
+Final validation error rate: 0.3390
+Test error rate: 0.3565

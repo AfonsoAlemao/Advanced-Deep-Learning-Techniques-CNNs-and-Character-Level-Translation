@@ -1,0 +1,115 @@
+python hw2-q3.py                                                   
+Loading data...
+Training...
+Epoch: [1/50], Loss: 1.6924
+Validation Error Rate of the model: 0.6089
+Epoch: [2/50], Loss: 1.3873
+Validation Error Rate of the model: 0.5736
+Epoch: [3/50], Loss: 1.3043
+Validation Error Rate of the model: 0.5563
+Epoch: [4/50], Loss: 1.2543
+Validation Error Rate of the model: 0.5496
+Epoch: [5/50], Loss: 1.3551
+Validation Error Rate of the model: 0.5356
+Epoch: [6/50], Loss: 1.1783
+Validation Error Rate of the model: 0.5603
+Epoch: [7/50], Loss: 1.0288
+Validation Error Rate of the model: 0.5537
+Epoch: [8/50], Loss: 1.1604
+Validation Error Rate of the model: 0.5677
+Epoch: [9/50], Loss: 1.1231
+Validation Error Rate of the model: 0.5763
+Epoch: [10/50], Loss: 1.0240
+Validation Error Rate of the model: 0.5416
+Epoch: [11/50], Loss: 1.0656
+Validation Error Rate of the model: 0.5501
+Epoch: [12/50], Loss: 1.0515
+Validation Error Rate of the model: 0.5440
+Epoch: [13/50], Loss: 1.0103
+Validation Error Rate of the model: 0.5406
+Epoch: [14/50], Loss: 0.9903
+Validation Error Rate of the model: 0.5230
+Epoch: [15/50], Loss: 0.9587
+Validation Error Rate of the model: 0.5384
+Epoch: [16/50], Loss: 1.0044
+Validation Error Rate of the model: 0.5325
+Epoch: [17/50], Loss: 0.9086
+Validation Error Rate of the model: 0.5303
+Epoch: [18/50], Loss: 0.9296
+Validation Error Rate of the model: 0.5327
+Epoch: [19/50], Loss: 0.8437
+Validation Error Rate of the model: 0.5234
+Epoch: [20/50], Loss: 0.9517
+Validation Error Rate of the model: 0.5202
+Epoch: [21/50], Loss: 0.9568
+Validation Error Rate of the model: 0.5325
+Epoch: [22/50], Loss: 0.9190
+Validation Error Rate of the model: 0.5334
+Epoch: [23/50], Loss: 0.8878
+Validation Error Rate of the model: 0.5129
+Epoch: [24/50], Loss: 0.8250
+Validation Error Rate of the model: 0.5230
+Epoch: [25/50], Loss: 0.8687
+Validation Error Rate of the model: 0.5023
+Epoch: [26/50], Loss: 0.8550
+Validation Error Rate of the model: 0.5181
+Epoch: [27/50], Loss: 0.9200
+Validation Error Rate of the model: 0.5107
+Epoch: [28/50], Loss: 0.9298
+Validation Error Rate of the model: 0.5173
+Epoch: [29/50], Loss: 0.7713
+Validation Error Rate of the model: 0.5131
+Epoch: [30/50], Loss: 0.8418
+Validation Error Rate of the model: 0.5123
+Epoch: [31/50], Loss: 0.8346
+Validation Error Rate of the model: 0.5236
+Epoch: [32/50], Loss: 0.8286
+Validation Error Rate of the model: 0.5126
+Epoch: [33/50], Loss: 0.9328
+Validation Error Rate of the model: 0.5018
+Epoch: [34/50], Loss: 0.9038
+Validation Error Rate of the model: 0.5059
+Epoch: [35/50], Loss: 0.8952
+Validation Error Rate of the model: 0.5048
+Epoch: [36/50], Loss: 0.8565
+Validation Error Rate of the model: 0.5018
+Epoch: [37/50], Loss: 0.9332
+Validation Error Rate of the model: 0.4962
+Epoch: [38/50], Loss: 0.8227
+Validation Error Rate of the model: 0.5000
+Epoch: [39/50], Loss: 0.8006
+Validation Error Rate of the model: 0.5076
+Epoch: [40/50], Loss: 0.7866
+Validation Error Rate of the model: 0.5030
+Epoch: [41/50], Loss: 0.7913
+Validation Error Rate of the model: 0.4930
+Epoch: [42/50], Loss: 0.8733
+Validation Error Rate of the model: 0.5026
+Epoch: [43/50], Loss: 0.7968
+Validation Error Rate of the model: 0.4985
+Epoch: [44/50], Loss: 0.8476
+Validation Error Rate of the model: 0.4952
+Epoch: [45/50], Loss: 0.8139
+Validation Error Rate of the model: 0.4977
+Epoch: [46/50], Loss: 0.9129
+Validation Error Rate of the model: 0.5037
+Epoch: [47/50], Loss: 0.8131
+Validation Error Rate of the model: 0.5046
+Epoch: [48/50], Loss: 0.8104
+Validation Error Rate of the model: 0.5136
+Epoch: [49/50], Loss: 0.7603
+Validation Error Rate of the model: 0.4949
+Epoch: [50/50], Loss: 0.8676
+Validation Error Rate of the model: 0.5007
+Test Error Rate of the model: 0.5015
+true src: "venios ."
+true tgt: "come with us ."
+pred tgt: "come on it ."
+true src: "lo prometiste ."
+true tgt: "you promised ."
+pred tgt: "you paid the ball ."
+true src: "no tengo blanca ."
+true tgt: "i m broke ."
+pred tgt: "i m not stupid ."
+Final validation error rate: 0.5007
+Test error rate: 0.5015

@@ -1,0 +1,115 @@
+python hw2-q3.py --use_attn
+Loading data...
+Training...
+Epoch: [1/50], Loss: 1.5326
+Validation Error Rate of the model: 0.5966
+Epoch: [2/50], Loss: 1.3123
+Validation Error Rate of the model: 0.5576
+Epoch: [3/50], Loss: 1.1582
+Validation Error Rate of the model: 0.5332
+Epoch: [4/50], Loss: 1.0884
+Validation Error Rate of the model: 0.5175
+Epoch: [5/50], Loss: 1.2005
+Validation Error Rate of the model: 0.5092
+Epoch: [6/50], Loss: 1.0975
+Validation Error Rate of the model: 0.4877
+Epoch: [7/50], Loss: 0.8852
+Validation Error Rate of the model: 0.4961
+Epoch: [8/50], Loss: 1.0044
+Validation Error Rate of the model: 0.4779
+Epoch: [9/50], Loss: 1.0084
+Validation Error Rate of the model: 0.4708
+Epoch: [10/50], Loss: 0.9063
+Validation Error Rate of the model: 0.4534
+Epoch: [11/50], Loss: 0.8402
+Validation Error Rate of the model: 0.4558
+Epoch: [12/50], Loss: 0.7766
+Validation Error Rate of the model: 0.4335
+Epoch: [13/50], Loss: 0.8706
+Validation Error Rate of the model: 0.4386
+Epoch: [14/50], Loss: 0.8681
+Validation Error Rate of the model: 0.4381
+Epoch: [15/50], Loss: 0.8301
+Validation Error Rate of the model: 0.4220
+Epoch: [16/50], Loss: 0.9001
+Validation Error Rate of the model: 0.4249
+Epoch: [17/50], Loss: 0.7284
+Validation Error Rate of the model: 0.4222
+Epoch: [18/50], Loss: 0.7556
+Validation Error Rate of the model: 0.4037
+Epoch: [19/50], Loss: 0.7181
+Validation Error Rate of the model: 0.4011
+Epoch: [20/50], Loss: 0.7526
+Validation Error Rate of the model: 0.3966
+Epoch: [21/50], Loss: 0.7428
+Validation Error Rate of the model: 0.3879
+Epoch: [22/50], Loss: 0.6101
+Validation Error Rate of the model: 0.3925
+Epoch: [23/50], Loss: 0.7912
+Validation Error Rate of the model: 0.3863
+Epoch: [24/50], Loss: 0.6208
+Validation Error Rate of the model: 0.3853
+Epoch: [25/50], Loss: 0.6732
+Validation Error Rate of the model: 0.3862
+Epoch: [26/50], Loss: 0.6148
+Validation Error Rate of the model: 0.3762
+Epoch: [27/50], Loss: 0.7172
+Validation Error Rate of the model: 0.3813
+Epoch: [28/50], Loss: 0.6519
+Validation Error Rate of the model: 0.3744
+Epoch: [29/50], Loss: 0.5999
+Validation Error Rate of the model: 0.3684
+Epoch: [30/50], Loss: 0.6056
+Validation Error Rate of the model: 0.3649
+Epoch: [31/50], Loss: 0.6839
+Validation Error Rate of the model: 0.3697
+Epoch: [32/50], Loss: 0.6713
+Validation Error Rate of the model: 0.3591
+Epoch: [33/50], Loss: 0.5337
+Validation Error Rate of the model: 0.3571
+Epoch: [34/50], Loss: 0.6001
+Validation Error Rate of the model: 0.3606
+Epoch: [35/50], Loss: 0.6729
+Validation Error Rate of the model: 0.3545
+Epoch: [36/50], Loss: 0.6513
+Validation Error Rate of the model: 0.3677
+Epoch: [37/50], Loss: 0.6603
+Validation Error Rate of the model: 0.3424
+Epoch: [38/50], Loss: 0.5144
+Validation Error Rate of the model: 0.3533
+Epoch: [39/50], Loss: 0.6270
+Validation Error Rate of the model: 0.3489
+Epoch: [40/50], Loss: 0.5156
+Validation Error Rate of the model: 0.3436
+Epoch: [41/50], Loss: 0.6295
+Validation Error Rate of the model: 0.3500
+Epoch: [42/50], Loss: 0.5867
+Validation Error Rate of the model: 0.3502
+Epoch: [43/50], Loss: 0.5430
+Validation Error Rate of the model: 0.3558
+Epoch: [44/50], Loss: 0.7828
+Validation Error Rate of the model: 0.3553
+Epoch: [45/50], Loss: 0.6357
+Validation Error Rate of the model: 0.3435
+Epoch: [46/50], Loss: 0.5934
+Validation Error Rate of the model: 0.3419
+Epoch: [47/50], Loss: 0.5367
+Validation Error Rate of the model: 0.3428
+Epoch: [48/50], Loss: 0.5429
+Validation Error Rate of the model: 0.3430
+Epoch: [49/50], Loss: 0.5420
+Validation Error Rate of the model: 0.3369
+Epoch: [50/50], Loss: 0.6178
+Validation Error Rate of the model: 0.3430
+Test Error Rate of the model: 0.3488
+true src: "venios ."
+true tgt: "come with us ."
+pred tgt: "come on come ."
+true src: "lo prometiste ."
+true tgt: "you promised ."
+pred tgt: "you promised ."
+true src: "no tengo blanca ."
+true tgt: "i m broke ."
+pred tgt: "i have no back ."
+Final validation error rate: 0.3430
+Test error rate: 0.3488

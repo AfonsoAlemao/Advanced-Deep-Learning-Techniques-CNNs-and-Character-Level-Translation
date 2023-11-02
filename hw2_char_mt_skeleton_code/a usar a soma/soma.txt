@@ -1,0 +1,115 @@
+python hw2-q3.py --use_attn
+Loading data...
+Training...
+Epoch: [1/50], Loss: 1.6832
+Validation Error Rate of the model: 0.7188
+Epoch: [2/50], Loss: 1.4462
+Validation Error Rate of the model: 0.7135
+Epoch: [3/50], Loss: 1.2985
+Validation Error Rate of the model: 0.7108
+Epoch: [4/50], Loss: 1.1656
+Validation Error Rate of the model: 0.7370
+Epoch: [5/50], Loss: 1.3047
+Validation Error Rate of the model: 0.7004
+Epoch: [6/50], Loss: 1.1333
+Validation Error Rate of the model: 0.6912
+Epoch: [7/50], Loss: 0.9806
+Validation Error Rate of the model: 0.6901
+Epoch: [8/50], Loss: 1.0808
+Validation Error Rate of the model: 0.7023
+Epoch: [9/50], Loss: 1.0674
+Validation Error Rate of the model: 0.6793
+Epoch: [10/50], Loss: 1.0046
+Validation Error Rate of the model: 0.7259
+Epoch: [11/50], Loss: 0.9644
+Validation Error Rate of the model: 0.6810
+Epoch: [12/50], Loss: 0.9186
+Validation Error Rate of the model: 0.7459
+Epoch: [13/50], Loss: 0.9787
+Validation Error Rate of the model: 0.6665
+Epoch: [14/50], Loss: 0.9696
+Validation Error Rate of the model: 0.7043
+Epoch: [15/50], Loss: 0.9288
+Validation Error Rate of the model: 0.6764
+Epoch: [16/50], Loss: 0.9289
+Validation Error Rate of the model: 0.6730
+Epoch: [17/50], Loss: 0.8392
+Validation Error Rate of the model: 0.6650
+Epoch: [18/50], Loss: 0.8946
+Validation Error Rate of the model: 0.6929
+Epoch: [19/50], Loss: 0.8941
+Validation Error Rate of the model: 0.6875
+Epoch: [20/50], Loss: 0.9064
+Validation Error Rate of the model: 0.6819
+Epoch: [21/50], Loss: 0.8756
+Validation Error Rate of the model: 0.6542
+Epoch: [22/50], Loss: 0.7744
+Validation Error Rate of the model: 0.7124
+Epoch: [23/50], Loss: 0.8953
+Validation Error Rate of the model: 0.6722
+Epoch: [24/50], Loss: 0.8224
+Validation Error Rate of the model: 0.6618
+Epoch: [25/50], Loss: 0.8431
+Validation Error Rate of the model: 0.7187
+Epoch: [26/50], Loss: 0.7701
+Validation Error Rate of the model: 0.6710
+Epoch: [27/50], Loss: 0.8493
+Validation Error Rate of the model: 0.6599
+Epoch: [28/50], Loss: 0.8510
+Validation Error Rate of the model: 0.6915
+Epoch: [29/50], Loss: 0.8057
+Validation Error Rate of the model: 0.6703
+Epoch: [30/50], Loss: 0.6982
+Validation Error Rate of the model: 0.6779
+Epoch: [31/50], Loss: 0.7601
+Validation Error Rate of the model: 0.6625
+Epoch: [32/50], Loss: 0.7564
+Validation Error Rate of the model: 0.6518
+Epoch: [33/50], Loss: 0.6973
+Validation Error Rate of the model: 0.6728
+Epoch: [34/50], Loss: 0.7896
+Validation Error Rate of the model: 0.6549
+Epoch: [35/50], Loss: 0.7680
+Validation Error Rate of the model: 0.6537
+Epoch: [36/50], Loss: 0.7584
+Validation Error Rate of the model: 0.7140
+Epoch: [37/50], Loss: 0.7584
+Validation Error Rate of the model: 0.6711
+Epoch: [38/50], Loss: 0.7052
+Validation Error Rate of the model: 0.6679
+Epoch: [39/50], Loss: 0.7659
+Validation Error Rate of the model: 0.6731
+Epoch: [40/50], Loss: 0.6813
+Validation Error Rate of the model: 0.6545
+Epoch: [41/50], Loss: 0.7461
+Validation Error Rate of the model: 0.6446
+Epoch: [42/50], Loss: 0.7017
+Validation Error Rate of the model: 0.6664
+Epoch: [43/50], Loss: 0.6582
+Validation Error Rate of the model: 0.6590
+Epoch: [44/50], Loss: 0.7704
+Validation Error Rate of the model: 0.6539
+Epoch: [45/50], Loss: 0.7636
+Validation Error Rate of the model: 0.6628
+Epoch: [46/50], Loss: 0.7407
+Validation Error Rate of the model: 0.6557
+Epoch: [47/50], Loss: 0.7040
+Validation Error Rate of the model: 0.6614
+Epoch: [48/50], Loss: 0.7274
+Validation Error Rate of the model: 0.6407
+Epoch: [49/50], Loss: 0.6908
+Validation Error Rate of the model: 0.6517
+Epoch: [50/50], Loss: 0.7523
+Validation Error Rate of the model: 0.6486
+Test Error Rate of the model: 0.6424
+true src: "venios ."
+true tgt: "come with us ."
+pred tgt: "we do it ."
+true src: "lo prometiste ."
+true tgt: "you promised ."
+pred tgt: "he do i ."
+true src: "no tengo blanca ."
+true tgt: "i m broke ."
+pred tgt: "i don t do ."
+Final validation error rate: 0.6486
+Test error rate: 0.6424
