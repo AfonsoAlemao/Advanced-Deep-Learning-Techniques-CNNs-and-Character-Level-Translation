@@ -1,5 +1,7 @@
 # Advanced-Deep-Learning-Techniques-CNNs-and-Character-Level-Translation
 
+**Authors**: Afonso Alemão, Rui Daniel
+
 ## Overview
 
 This project dives deep into Convolutional Neural Networks (CNNs), attention mechanisms, and character-level machine translation, giving students a comprehensive understanding of these advanced deep-learning techniques.
